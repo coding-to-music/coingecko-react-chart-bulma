@@ -1,3 +1,37 @@
+# coingecko-react-chart-bulma
+
+# 🚀 Javascript full-stack 🚀
+
+https://github.com/coding-to-music/coingecko-react-chart-bulma
+
+https://coingecko-react-chart-bulma.vercel.app
+
+by Robert Soriano https://github.com/wobsoriano
+
+https://cryptostats.vercel.app
+
+https://github.com/wobsoriano/cryptostats
+
+## Environment Values
+
+```java
+const publicUrl = new URL(process.env.PUBLIC_URL, window.location.href);
+
+```
+
+## GitHub
+
+```java
+git init
+git add .
+git remote remove origin
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:coding-to-music/coingecko-react-chart-bulma.git
+git push -u origin main
+
+```
+
 # Cryptostats
 
 Top crypto assets by market capitalization.
